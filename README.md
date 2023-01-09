@@ -1,5 +1,7 @@
 [![CircleCI](https://circleci.com/gh/Pithikos/C-Thread-Pool.svg?style=svg)](https://circleci.com/gh/Pithikos/C-Thread-Pool)
 
+[中文使用文档](https://cloud.tencent.com/developer/article/1849765)
+
 # C Thread Pool
 
 This is a minimal but advanced threadpool implementation.
