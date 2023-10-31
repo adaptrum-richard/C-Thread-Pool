@@ -1,0 +1,3 @@
+*.o
+pthread_test
+.vscode
